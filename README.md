@@ -1,0 +1,3 @@
+##Compute the average weight for a population of elephant seals read into an array
+Given the attached file listing elephant seal weights (elephant_seal_data), read them into an array and compute the average weight for the set of the elephant seals.
+[txt file](https://d18ky98rnyall9.cloudfront.net/W_lzvc89Eem06hL8prFFBA_161b31dd311a49239814cf1dff0bec18_elephant_seal_data?Expires=1668556800&Signature=FaHTyb8qcouV59ixoYCllwjoQuOh9lm88fcoGaz-4T7UrucEUGvghlBlbU~OumxTlbrqJVTqV4aJamGnogal~~wxKKk2SLUFwUYqb5IAaw4R5QO~iKwPDNMiQTFacQQG-Dx5oNskWPv7CUnm6ommUusozdX6Obmxkf9FpA6kvhM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
